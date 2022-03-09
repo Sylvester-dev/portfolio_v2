@@ -68,7 +68,7 @@ const introAnimationHandler = () => {
 			<div bind:this={links}>
 				<span class="button" bind:this={emailLink}><a href="mailto:vk.ind004@gmail.com" target="_blank" class="clickable sublink link">Email</a></span>
 				<span class="button" bind:this={githubLink}><a href="https://github.com/sylvester-dev" target="_blank" class="clickable sublink link">Github</a></span>
-				<span class="button" bind:this={resumeLink}><a href="https://github.com/sylvester-dev" target="_blank" class="clickable sublink link">Resume</a></span>
+				<span class="button" bind:this={resumeLink}><a href="https://ipfs.io/ipfs/QmSm8kfFELR98dkpUMddTk8sxyPK2FRwe6FLRTR8DQQXra?filename=Vineet_Resume.pdf" target="_blank" class="clickable sublink link">Resume</a></span>
 			</div>
 		</div>
 	</div>
