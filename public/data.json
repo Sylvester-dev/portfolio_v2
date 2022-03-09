@@ -1,0 +1,407 @@
+[
+  {
+    "id": 1,
+    "title": "NFT_Game",
+    "details": {
+      "description": "A multiplayer turn-based onchain decentralized browser gaming platform with your own NFT's superpowers.",
+      "summary": "Multiplayer NFT Game"
+    },
+    "date": "March 2021",
+    "roles": [
+      "Repo Maintainer",
+      "Developer"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "View on Github",
+        "link": "https://github.com/"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Q_Dao",
+    "details": {
+      "description": "A DAO for members of the startup community to support each other. Members earn $MEGA tokens whenever they provide value to other founders, for example by giving them advice, beta-testing their products, or supporting them on social media.",
+      "summary": "A DAO for better future."
+    },
+    "date": "Nov 2020",
+    "roles": [
+      "Brand Designer",
+      "Web Designer",
+      "Front-End Web Developer"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "link": "https://grillzzy.com"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "DNS.flappy",
+    "details": {
+      "description": "A domain naming service for music artists with power of NFT's",
+      "summary": "DNS for music"
+    },
+    "date": "Jan 2020",
+    "roles": [
+      "Website Designer",
+      "Full-Stack Web Developer"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "link": "http://kelownawholesaleauto.com/"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Sahayak",
+    "details": {
+      "description": "A customer management web app and website for a hair salon shop",
+      "summary": "Web App"
+    },
+    "date": "Oct 2019",
+    "roles": [
+      "Website Designer",
+      "Full-Stack Web Developer"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Site Unavailable",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Ghar",
+    "details": {
+      "description": "Mobile apps, web app, and server-side solutions for the Muslim community of Kelowna, BC",
+      "summary": "Platform Solutions"
+    },
+    "date": "July 2019",
+    "roles": [
+      "UI/UX Designer",
+      "Android Developer",
+      "iOS Developer",
+      "Full-Stack Web Developer"
+    ],
+    "links": [
+      {
+        "type": "android",
+        "text": "Google Play",
+        "link": "https://play.google.com/store/apps/details?id=com.kelownamasjid.android.app"
+      },
+      {
+        "type": "ios",
+        "text": "App Store",
+        "link": "https://apps.apple.com/us/app/kelowna-islamic-center/id1479503537?ls=1"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Khazana",
+    "details": {
+      "description": "Mobile apps, web app, and server-side solutions for the Muslim community of Kelowna, BC",
+      "summary": "Platform Solutions"
+    },
+    "date": "July 2019",
+    "roles": [
+      "UI/UX Designer",
+      "Android Developer",
+      "iOS Developer",
+      "Full-Stack Web Developer"
+    ],
+    "links": [
+      {
+        "type": "android",
+        "text": "Google Play",
+        "link": "https://play.google.com/store/apps/details?id=com.kelownamasjid.android.app"
+      },
+      {
+        "type": "ios",
+        "text": "App Store",
+        "link": "https://apps.apple.com/us/app/kelowna-islamic-center/id1479503537?ls=1"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "BugMEE",
+    "details": {
+      "description": "Mobile apps, web app, and server-side solutions for the Muslim community of Kelowna, BC",
+      "summary": "Platform Solutions"
+    },
+    "date": "July 2019",
+    "roles": [
+      "UI/UX Designer",
+      "Android Developer",
+      "iOS Developer",
+      "Full-Stack Web Developer"
+    ],
+    "links": [
+      {
+        "type": "android",
+        "text": "Google Play",
+        "link": "https://play.google.com/store/apps/details?id=com.kelownamasjid.android.app"
+      },
+      {
+        "type": "ios",
+        "text": "App Store",
+        "link": "https://apps.apple.com/us/app/kelowna-islamic-center/id1479503537?ls=1"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Socio",
+    "details": {
+      "description": "Mobile apps, web app, and server-side solutions for the Muslim community of Kelowna, BC",
+      "summary": "Platform Solutions"
+    },
+    "date": "July 2019",
+    "roles": [
+      "UI/UX Designer",
+      "Android Developer",
+      "iOS Developer",
+      "Full-Stack Web Developer"
+    ],
+    "links": [
+      {
+        "type": "android",
+        "text": "Google Play",
+        "link": "https://play.google.com/store/apps/details?id=com.kelownamasjid.android.app"
+      },
+      {
+        "type": "ios",
+        "text": "App Store",
+        "link": "https://apps.apple.com/us/app/kelowna-islamic-center/id1479503537?ls=1"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Netflix",
+    "details": {
+      "description": "Mobile apps, web app, and server-side solutions for the Muslim community of Kelowna, BC",
+      "summary": "Platform Solutions"
+    },
+    "date": "July 2019",
+    "roles": [
+      "UI/UX Designer",
+      "Android Developer",
+      "iOS Developer",
+      "Full-Stack Web Developer"
+    ],
+    "links": [
+      {
+        "type": "android",
+        "text": "Google Play",
+        "link": "https://play.google.com/store/apps/details?id=com.kelownamasjid.android.app"
+      },
+      {
+        "type": "ios",
+        "text": "App Store",
+        "link": "https://apps.apple.com/us/app/kelowna-islamic-center/id1479503537?ls=1"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Google-Clone",
+    "details": {
+      "description": "Mobile apps, web app, and server-side solutions for the Muslim community of Kelowna, BC",
+      "summary": "Platform Solutions"
+    },
+    "date": "July 2019",
+    "roles": [
+      "UI/UX Designer",
+      "Android Developer",
+      "iOS Developer",
+      "Full-Stack Web Developer"
+    ],
+    "links": [
+      {
+        "type": "android",
+        "text": "Google Play",
+        "link": "https://play.google.com/store/apps/details?id=com.kelownamasjid.android.app"
+      },
+      {
+        "type": "ios",
+        "text": "App Store",
+        "link": "https://apps.apple.com/us/app/kelowna-islamic-center/id1479503537?ls=1"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Covid Tracker",
+    "details": {
+      "description": "Mobile apps, web app, and server-side solutions for the Muslim community of Kelowna, BC",
+      "summary": "Platform Solutions"
+    },
+    "date": "July 2019",
+    "roles": [
+      "UI/UX Designer",
+      "Android Developer",
+      "iOS Developer",
+      "Full-Stack Web Developer"
+    ],
+    "links": [
+      {
+        "type": "android",
+        "text": "Google Play",
+        "link": "https://play.google.com/store/apps/details?id=com.kelownamasjid.android.app"
+      },
+      {
+        "type": "ios",
+        "text": "App Store",
+        "link": "https://apps.apple.com/us/app/kelowna-islamic-center/id1479503537?ls=1"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Rentz",
+    "details": {
+      "description": "Mobile apps, web app, and server-side solutions for the Muslim community of Kelowna, BC",
+      "summary": "Platform Solutions"
+    },
+    "date": "July 2019",
+    "roles": [
+      "UI/UX Designer",
+      "Android Developer",
+      "iOS Developer",
+      "Full-Stack Web Developer"
+    ],
+    "links": [
+      {
+        "type": "android",
+        "text": "Google Play",
+        "link": "https://play.google.com/store/apps/details?id=com.kelownamasjid.android.app"
+      },
+      {
+        "type": "ios",
+        "text": "App Store",
+        "link": "https://apps.apple.com/us/app/kelowna-islamic-center/id1479503537?ls=1"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Fitness Geek",
+    "details": {
+      "description": "Mobile apps, web app, and server-side solutions for the Muslim community of Kelowna, BC",
+      "summary": "Platform Solutions"
+    },
+    "date": "July 2019",
+    "roles": [
+      "UI/UX Designer",
+      "Android Developer",
+      "iOS Developer",
+      "Full-Stack Web Developer"
+    ],
+    "links": [
+      {
+        "type": "android",
+        "text": "Google Play",
+        "link": "https://play.google.com/store/apps/details?id=com.kelownamasjid.android.app"
+      },
+      {
+        "type": "ios",
+        "text": "App Store",
+        "link": "https://apps.apple.com/us/app/kelowna-islamic-center/id1479503537?ls=1"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Student App",
+    "details": {
+      "description": "Mobile apps, web app, and server-side solutions for the Muslim community of Kelowna, BC",
+      "summary": "Platform Solutions"
+    },
+    "date": "July 2019",
+    "roles": [
+      "UI/UX Designer",
+      "Android Developer",
+      "iOS Developer",
+      "Full-Stack Web Developer"
+    ],
+    "links": [
+      {
+        "type": "android",
+        "text": "Google Play",
+        "link": "https://play.google.com/store/apps/details?id=com.kelownamasjid.android.app"
+      },
+      {
+        "type": "ios",
+        "text": "App Store",
+        "link": "https://apps.apple.com/us/app/kelowna-islamic-center/id1479503537?ls=1"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Air-board",
+    "details": {
+      "description": "Mobile apps, web app, and server-side solutions for the Muslim community of Kelowna, BC",
+      "summary": "Platform Solutions"
+    },
+    "date": "July 2019",
+    "roles": [
+      "UI/UX Designer",
+      "Android Developer",
+      "iOS Developer",
+      "Full-Stack Web Developer"
+    ],
+    "links": [
+      {
+        "type": "android",
+        "text": "Google Play",
+        "link": "https://play.google.com/store/apps/details?id=com.kelownamasjid.android.app"
+      },
+      {
+        "type": "ios",
+        "text": "App Store",
+        "link": "https://apps.apple.com/us/app/kelowna-islamic-center/id1479503537?ls=1"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Doc-to-Word",
+    "details": {
+      "description": "Mobile apps, web app, and server-side solutions for the Muslim community of Kelowna, BC",
+      "summary": "Platform Solutions"
+    },
+    "date": "July 2019",
+    "roles": [
+      "UI/UX Designer",
+      "Android Developer",
+      "iOS Developer",
+      "Full-Stack Web Developer"
+    ],
+    "links": [
+      {
+        "type": "android",
+        "text": "Google Play",
+        "link": "https://play.google.com/store/apps/details?id=com.kelownamasjid.android.app"
+      },
+      {
+        "type": "ios",
+        "text": "App Store",
+        "link": "https://apps.apple.com/us/app/kelowna-islamic-center/id1479503537?ls=1"
+      }
+    ]
+  }
+]
