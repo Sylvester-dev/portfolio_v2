@@ -99,6 +99,7 @@ const introAnimationHandler = () => {
 			<div>Web2.0</div>
 			<div class="flex-item">
 				<img src="assets/imgs/svg-icons/react.svg" alt="react">
+				<img src="assets/imgs/svg-icons/nextjs.svg" alt="nextjs">
 				<img src="assets/imgs/svg-icons/mongodb.svg" alt="mongo">
 				<img src="assets/imgs/svg-icons/git.svg" alt="git">
 				<img src="assets/imgs/svg-icons/nodejs.svg" alt="node js">
