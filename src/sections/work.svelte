@@ -244,6 +244,18 @@ function adjustLineHeight(node) {
 			</div>
 		{/if}
 	</div>
+	{#if currentActive === null}
+		<div class="wrapper action-mask">
+			<div>
+				hold & slide
+			</div>
+			<div>
+				{#await loadImage("assets/imgs/right_arrow.png") then src}
+					<img src="{src}" alt="">
+				{/await}
+			</div>
+		</div>
+	{/if}
 </div>
 
 
@@ -258,11 +270,23 @@ function adjustLineHeight(node) {
 @import "../consts.sass"
 @include textStyles()
 
+.action-mask
+		display: flex
+		justify-content: center
+
+img
+		height: 2vh
+		margin-right: 1.5vh
+		margin-left: 1vh
+		align-items: center
+		animation: scrollArrowLoop 3s ease infinite
+
 #content-container.work-click-area .content-wrapper
 	display: flex
 	flex-direction: column
 	cursor: grab
 	position: relative
+
 
 	&.disabled
 		cursor: default !important
@@ -300,6 +324,10 @@ function adjustLineHeight(node) {
 			display: flex
 			flex-direction: column
 			justify-content: space-between
+
+			.action
+				display: flex
+				justify-content: center;
 
 			.top-align
 				.wrapper

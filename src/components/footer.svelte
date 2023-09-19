@@ -73,7 +73,7 @@ onMount(() => {
 	<div class="flex-wrapper">
         <div class="inline-flex">
             <img src="assets/imgs/footer-logo.svg" alt="vk logo" class="logo">
-            <p class="year">© 2022</p>
+            <p class="year">© 2023</p>
         </div>
         <div class="button-wrapper">
             <span class="button" bind:this={twitterLink}><a href="https://twitter.com/3lvis_vk" target="_blank" class="clickable sublink link">Twitter</a></span>

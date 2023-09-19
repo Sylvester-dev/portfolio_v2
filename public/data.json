@@ -1,10 +1,34 @@
 [
   {
     "id": 1,
-    "title": "dWorld",
+    "title": "Linkwave",
     "details": {
-      "description": "A 3D virtual world browser-based platform. Users may buy virtual plots of land, vote and trade in the platform as NFTs via cryptocurrency, which uses the Ethereum blockchain. ",
-      "summary": "A decentralized Metaverse"
+      "description": "Online collaboration and communication platform for creating communities, facilitating text, voice, and video chat with role-based features.",
+      "summary": "Social Platform"
+    },
+    "date": "Aug 2023",
+    "roles": [
+      "Full stack Developer"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Github",
+        "link": "https://github.com/Sylvester-dev/linkwave"
+      },
+      {
+        "type": "web",
+        "text": "Visit website",
+        "link": "https://linkwave-production.up.railway.app/"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Bomb Dashboard",
+    "details": {
+      "description": "Integration and forntend devlopment of Bomb dashboard",
+      "summary": "Dashboard for Bomb Money"
     },
     "date": "April 2022",
     "roles": [
@@ -14,13 +38,67 @@
     "links": [
       {
         "type": "web",
+        "text": "Github",
+        "link": "https://github.com/Sylvester-dev/bomb-dashboard-vineet"
+      },
+      {
+        "type": "web",
         "text": "Visit website",
-        "link": "https://dworlds.netlify.app/"
+        "link": "https://bomb-dashboard-vineet.netlify.app/"
       }
     ]
   },
   {
-    "id": 2,
+    "id": 3,
+    "title": "PaperME",
+    "details": {
+      "description": "A paper looking like porfolio website inspired by the look of niccolomiranda.com ",
+      "summary": "A Paper look portfolio"
+    },
+    "date": "April 2023",
+    "roles": [
+      "Frontend Developer"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Github",
+        "link": "https://github.com/Sylvester-dev/paper_me"
+      },
+      {
+        "type": "web",
+        "text": "Visit website",
+        "link": "https://papervineet.netlify.app"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "TravelBack",
+    "details": {
+      "description": "Provide people a way to earn money from their prepaid bookings during travelling and vacations.",
+      "summary": "Travel made fun with cashbacks and Superfluid."
+    },
+    "date": "Nov 2022",
+    "roles": [
+      "Frontend Developer",
+      "Superfluid Integration"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Github",
+        "link": "https://github.com/Sylvester-dev/travelback"
+      },
+      {
+        "type": "web",
+        "text": "Visit website",
+        "link": "https://gentle-lab-0511.on.fleek.co/"
+      }
+    ]
+  },
+  {
+    "id": 5,
     "title": "InstaBank",
     "details": {
       "description": "The main objective of InstaBank is to decentralize the banking and insurance system, provide the power of money from some few hands to the common people.",
@@ -29,138 +107,44 @@
     "date": "May 2022",
     "roles": [
       "Frontend Developer",
-      "Web3 Developer"
+      "Web3 Integration"
     ],
     "links": [
       {
         "type": "web",
         "text": "View on Github",
         "link": "https://github.com/Sylvester-dev/InstaBank"
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "title": "NFT_Game",
-    "details": {
-      "description": "A multiplayer turn-based onchain decentralized browser gaming platform with your own NFT's superpowers.",
-      "summary": "Multiplayer NFT Game"
-    },
-    "date": "Jan 2022",
-    "roles": [
-      "Repo Maintainer",
-      "Web3 Developer"
-    ],
-    "links": [
-      {
-        "type": "web",
-        "text": "View on Github",
-        "link": "https://github.com/Sylvester-dev/Nft-Game"
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "title": "Q_Dao",
-    "details": {
-      "description": "A DAO for members of the startup community to support each other. Members earn $MEGA tokens whenever they provide value to other founders, for example by giving them advice, beta-testing their products, or supporting them on social media.",
-      "summary": "A DAO for better future."
-    },
-    "date": "Feb 2022",
-    "roles": [
-      "Web3 Developer",
-      "Front-End Web Developer"
-    ],
-    "links": [
+      },
       {
         "type": "web",
         "text": "Visit Site",
-        "link": "https://github.com/Sylvester-dev/Q_DAO"
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "title": "DNS.flappy",
-    "details": {
-      "description": "A domain naming service for music artists with power of NFT's",
-      "summary": "DNS for music"
-    },
-    "date": "March 2022",
-    "roles": [
-      "Website Designer",
-      "Full-Stack Web Developer"
-    ],
-    "links": [
-      {
-        "type": "web",
-        "text": "Visit Site",
-        "link": "https://github.com/Sylvester-dev/flappy_dns"
+        "link": "https://insta-bank.vercel.app/"
       }
     ]
   },
   {
     "id": 6,
-    "title": "Sahayak",
+    "title": "octaBot",
     "details": {
-      "description": "Our platform has a sole purpose to eradicate fake documents and make counselling /verification easy with blockchain",
-      "summary": "Web3 App for safety"
+      "description": "Feel free to inquire about anything using our AI chatbot, and explore the opportunity to purchase a subscription through NFT.",
+      "summary": "NFT powered AI Bot"
     },
-    "date": "Oct 2019",
+    "date": "Aug 2023",
     "roles": [
-      "Website Developer",
-      "Full-Stack Web Developer"
+      "Frontend Developer",
+      "Web3 developer",
+      "OpenAI Integration"
     ],
     "links": [
       {
         "type": "web",
-        "text": "Visit Site",
-        "link": "https://github.com/Sylvester-dev/Sahayak"
+        "text": "Github",
+        "link": "https://github.com/Sylvester-dev/octo-ai"
       }
     ]
   },
   {
     "id": 7,
-    "title": "Ghar",
-    "details": {
-      "description": "We are tokenizing all the real estate document information so as to give right of ownership of property to the owner of the token.",
-      "summary": "Tokenizing real world Assets."
-    },
-    "date": "July 2019",
-    "roles": [
-      "UI/UX Designer",
-      "Web3 Developer"
-    ],
-    "links": [
-      {
-        "type": "web",
-        "text": "Visit Site",
-        "link": "https://github.com/Sylvester-dev/Ghar"
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "title": "Khazana",
-    "details": {
-      "description": "Our Web App is a platform to create/buy/sell cause based tokens.The cause can be an event , movie , relief fund or Loyalty program etc.",
-      "summary": "reate/buy/sell cause based token."
-    },
-    "date": "July 2019",
-    "roles": [
-      "UI/UX Designer",
-      "Full-Stack Web3 Developer"
-    ],
-    "links": [
-      {
-        "type": "web",
-        "text": "Visit Site",
-        "link": "https://github.com/Sylvester-dev/Khazana"
-      }
-    ]
-  },
-  {
-    "id": 9,
     "title": "BugMEE",
     "details": {
       "description": "BugView is a easy-to-use web application tool to track and manage bugs for any large or small scale project. This is a unique site that also integrates with data charts to better visualize team and tech stack performances.",
@@ -180,27 +164,210 @@
     ]
   },
   {
-    "id": 10,
-    "title": "Socio",
+    "id": 8,
+    "title": "PulsePay",
     "details": {
-      "description": "Socio is a fully functional social media web app with multiple features built with help of MERN stack.",
-      "summary": "Social Media"
+      "description": "Seamless PWA NFT minting platform with no wallet popup, signup, and gasless fee payment, featuring smart wallet integration.",
+      "summary": "PWA ERC4337 powered NFT platform"
     },
-    "date": "July 2019",
+    "date": "Aug 2023",
     "roles": [
-      "UI/UX Designer",
+      "Frontend Developer",
+      "Web3 developer"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Github",
+        "link": "https://github.com/Sylvester-dev/pulsePay"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Cogoport",
+    "details": {
+      "description": "A clone of cogoport main page UI",
+      "summary": "Cogoport UI clone"
+    },
+    "date": "Jan 2023",
+    "roles": [
+      "Frontend Developer"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Github",
+        "link": "https://github.com/Sylvester-dev/ca-html-css-a1"
+      },
+      {
+        "type": "web",
+        "text": "Visit website",
+        "link": "https://cogoport.netlify.app/"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "dWorld",
+    "details": {
+      "description": "A 3D virtual world browser-based platform. Users may buy virtual plots of land, vote and trade in the platform as NFTs via cryptocurrency, which uses the Ethereum blockchain. ",
+      "summary": "A decentralized Metaverse"
+    },
+    "date": "April 2022",
+    "roles": [
+      "Frontend Developer",
+      "Web3 Developer"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit website",
+        "link": "https://dworlds.netlify.app/"
+      }
+    ]
+  },
+ 
+  {
+    "id": 11,
+    "title": "NFT_Game",
+    "details": {
+      "description": "A multiplayer turn-based onchain decentralized browser gaming platform with your own NFT's superpowers.",
+      "summary": "Multiplayer NFT Game"
+    },
+    "date": "Jan 2022",
+    "roles": [
+      "Repo Maintainer",
+      "Web3 Developer"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "View on Github",
+        "link": "https://github.com/Sylvester-dev/Nft-Game"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Q_Dao",
+    "details": {
+      "description": "A DAO for members of the startup community to support each other. Members earn $MEGA tokens whenever they provide value to other founders, for example by giving them advice, beta-testing their products, or supporting them on social media.",
+      "summary": "A DAO for better future."
+    },
+    "date": "Feb 2022",
+    "roles": [
+      "Web3 Developer",
+      "Front-End Web Developer"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Github",
+        "link": "https://github.com/Sylvester-dev/Q_DAO"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "DNS.flappy",
+    "details": {
+      "description": "A domain naming service for music artists with power of NFT's",
+      "summary": "DNS for music"
+    },
+    "date": "March 2022",
+    "roles": [
+      "Website Designer",
       "Full-Stack Web Developer"
     ],
     "links": [
       {
         "type": "web",
+        "text": "Github",
+        "link": "https://github.com/Sylvester-dev/flappy_dns"
+      },
+      {
+        "type": "web",
         "text": "Visit Site",
-        "link": "https://github.com/Sylvester-dev/bugMEE"
+        "link": "https://mymusicnft.netlify.app/"
       }
     ]
   },
   {
-    "id": 11,
+    "id": 14,
+    "title": "Sahayak",
+    "details": {
+      "description": "Our platform has a sole purpose to eradicate fake documents and make counselling /verification easy with blockchain",
+      "summary": "Web3 App for safety"
+    },
+    "date": "Oct 2019",
+    "roles": [
+      "Website Developer"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Github",
+        "link": "https://github.com/Sylvester-dev/Sahayak"
+      },
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "link": "https://sahayak1.netlify.app/"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Ghar",
+    "details": {
+      "description": "We are tokenizing all the real estate document information so as to give right of ownership of property to the owner of the token.",
+      "summary": "Tokenizing real world Assets."
+    },
+    "date": "July 2019",
+    "roles": [
+      "Frontend development"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Github",
+        "link": "https://github.com/Sylvester-dev/Ghar"
+      },
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "link": "https://ghar.netlify.app/"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Khazana",
+    "details": {
+      "description": "Our Web App is a platform to create/buy/sell cause based tokens.The cause can be an event , movie , relief fund or Loyalty program etc.",
+      "summary": "create/buy/sell cause based token."
+    },
+    "date": "July 2019",
+    "roles": [
+      "UI/UX Designer",
+      "Frontend Web3 Developer"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Github",
+        "link": "https://github.com/Sylvester-dev/Khazana"
+      },
+      {
+        "type": "web",
+        "text": "View Site",
+        "link": "https://khazana.netlify.app/"
+      }
+    ]
+  },
+  {
+    "id": 17,
     "title": "Netflix",
     "details": {
       "description": "An API web app build to know more about movies with their trailer, given a look of Netflix.",
@@ -214,33 +381,18 @@
     "links": [
       {
         "type": "web",
-        "text": "Visit Site",
+        "text": "Github",
         "link": "https://github.com/Sylvester-dev/Netflix-clone"
-      }
-    ]
-  },
-  {
-    "id": 12,
-    "title": "Google-Clone",
-    "details": {
-      "description": "A search engine with pagination given a look of Google with Google API and tailwind",
-      "summary": "Let's Gooogle"
-    },
-    "date": "July 2019",
-    "roles": [
-      "UI/UX Designer",
-      "Web Developer"
-    ],
-    "links": [
+      },
       {
         "type": "web",
         "text": "Visit Site",
-        "link": "https://github.com/Sylvester-dev/Google_clone"
+        "link": "https://netflix-clone-4b6d2.web.app/"
       }
     ]
   },
   {
-    "id": 13,
+    "id": 18,
     "title": "Covid Tracker",
     "details": {
       "description": "Track number of covid cases and recovery rate of all country across world",
@@ -254,13 +406,18 @@
     "links": [
       {
         "type": "web",
-        "text": "Visit Site",
+        "text": "Github",
         "link": "https://github.com/Sylvester-dev/Covid-tracker"
+      },
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "link": "https://covid-19-tracker-2b9f8.web.app/"
       }
     ]
   },
   {
-    "id": 14,
+    "id": 19,
     "title": "Rentz",
     "details": {
       "description": "Mobile app that let you search nearby flats, hostels, cars, bikes and other things available for renting.",
@@ -276,43 +433,13 @@
     "links": [
       {
         "type": "android",
-        "text": "Google Play",
-        "link": "https://play.google.com/store/apps/"
-      },
-      {
-        "type": "ios",
         "text": "Github",
         "link": "https://github.com/Sylvester-dev/rentz-frontend"
       }
     ]
   },
   {
-    "id": 15,
-    "title": "Fitness Geek",
-    "details": {
-      "description": "Mobile app for everyday fitness and exercise",
-      "summary": "Exercise for all"
-    },
-    "date": "July 2019",
-    "roles": [
-      "UI/UX Designer",
-      "Flutter Developer"
-    ],
-    "links": [
-      {
-        "type": "android",
-        "text": "Google Play",
-        "link": "https://play.google.com/store/apps/details?id=com.kelownamasjid.android.app"
-      },
-      {
-        "type": "web",
-        "text": "Github",
-        "link": "https://github.com/Sylvester-dev/rentz-frontend"
-      }
-    ]
-  },
-  {
-    "id": 16,
+    "id": 20,
     "title": "Student App",
     "details": {
       "description": "Mobile apps for students of IIITL with overall integration of all club and easy acess of basic items with whatsapp integration for chat.",
@@ -321,9 +448,8 @@
     "date": "July 2019",
     "roles": [
       "UI/UX Designer",
-      "Android Developer",
-      "iOS Developer",
-      "Flutter Developer"
+      "Flutter Developer",
+      "Firebase"
     ],
     "links": [
       {
@@ -334,7 +460,7 @@
     ]
   },
   {
-    "id": 17,
+    "id": 21,
     "title": "Air-board",
     "details": {
       "description": "A web app where one can draw on air using a blue pointer",
@@ -354,7 +480,7 @@
     ]
   },
   {
-    "id": 18,
+    "id": 22,
     "title": "Doc-to-Word",
     "details": {
       "description": "A web software to convert typed words into multiple hand-written on paper format",
@@ -370,6 +496,11 @@
         "type": "web",
         "text": "Github",
         "link": "https://github.com/Sylvester-dev/doc-to-word"
+      },
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "link": "https://doc2word.netlify.app/"
       }
     ]
   }

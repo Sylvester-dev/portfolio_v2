@@ -68,7 +68,7 @@ const introAnimationHandler = () => {
 			<div bind:this={links}>
 				<span class="button" bind:this={emailLink}><a href="mailto:vk.ind004@gmail.com" target="_blank" class="clickable sublink link">Email</a></span>
 				<span class="button" bind:this={githubLink}><a href="https://github.com/sylvester-dev" target="_blank" class="clickable sublink link">Github</a></span>
-				<span class="button" bind:this={resumeLink}><a href="https://ipfs.io/ipfs/bafybeibkrkwodlp6z32dmuhh2yh57dht3hplalktvyo6ikuhbqnje7nfy4/Vineet_Resume_June1.pdf" target="_blank" class="clickable sublink link">Resume</a></span>
+				<span class="button" bind:this={resumeLink}><a href="https://drive.google.com/file/d/10z-9DMln7eSGTSxS71LZHuBLsJXUflgv/view?usp=sharing" target="_blank" class="clickable sublink link">Resume</a></span>
 			</div>
 		</div>
 	</div>
@@ -126,10 +126,10 @@ const introAnimationHandler = () => {
 	<ul class="list">
 		<li class="list-title">awards</li>
 		<li>5x - Hackathon Awwwards</li>
-		<li>Lead - GDSC/MLSA/Axios/Ecell</li>
+		<li>Lead - Google DSC/MLSA/Axios/Ecell</li>
 		<li>Top 1% candidate - Uber HackTag 2.0</li>
-		<li>5 star - HackerRank</li>
-		<li>100% - Attendence record for 14 years</li>
+		<li>Top 2.67% candidate - Flipkart Grid 4.0</li>
+		<li>Global Rank 1 - Codechef Starters 45</li>
 	</ul>
 </div>
 
